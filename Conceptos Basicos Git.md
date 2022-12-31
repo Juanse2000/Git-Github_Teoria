@@ -38,3 +38,4 @@ Recuerda que debes habilitar la opción de ver la extensión de los archivos, de
 -   Pull: Consiste en la unión del fetch y del merge, esto es, recoge la información del repositorio remoto y luego mezcla el trabajo en local con esta.
     
 -   Diff: Se utiliza para mostrar los cambios entre dos versiones del mismo archivo.
+- :))
