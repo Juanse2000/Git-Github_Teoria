@@ -24,6 +24,8 @@ Si quieres ver los archivos ocultos de una carpeta puedes habilitar la opción d
 ## Comandos para iniciar tu repositorio con Git
 
 -   **git init**: para inicializar el repositorio git y el staged
+-   **git code**: para abrir visual studio code
+-   **git code + nombre_del_archivo.txt**: para abrir el archivo deseado con visual studio code 
 -   **git add**: nombre_del_archivo.txt: enviar el archivo al staged
 -   **git status**: ver el estado, si se requiere agregar al starget o si se requiere commit
 - **git diff**: para ver cuales fueron los cambios o modificaciones de un archivo desde la consola
