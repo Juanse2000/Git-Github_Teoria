@@ -26,7 +26,8 @@ Si quieres ver los archivos ocultos de una carpeta puedes habilitar la opción d
 -   **git init**: para inicializar el repositorio git y el staged
 -   **git code**: para abrir visual studio code
 -   **git code + nombre_del_archivo.txt**: para abrir el archivo deseado con visual studio code 
--   **git add**: nombre_del_archivo.txt: enviar el archivo al staged
+-   **git add**: Enviar todos los archivos con cambios a Staged
+-   **git add + nombre_del_archivo.txt**: Enviar solo un archivo a Staged
 -   **git status**: ver el estado, si se requiere agregar al starget o si se requiere commit
 - **git diff**: para ver cuales fueron los cambios o modificaciones de un archivo desde la consola
 -   **git conf**: para ver las posibles configuraciones
@@ -40,3 +41,5 @@ Si por algún motivo te equivocaste en el nombre o email que configuraste al pri
 O si lo deseas eliminar y añadir uno nuevo  
 `git config --global --unset-all user.name :Elimina el nombre del usuario`  
 `git config --global --add user.name “Aquí va tu nombre”`
+
+Debemos tener en cuenta que dentro de nuestras carpetas inicializadas con git va a existir una carpeta .git/ la cual tiene la base de datos de los cambios de Git para nuestro repositorio.
