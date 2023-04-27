@@ -1,4 +1,5 @@
 ﻿# ¿Que es Git?
+ 
 **Git es un sistema de control de versiones distribuido**, diseñado por Linus Torvalds. Está pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
 -   Git está optimizado para guardar cambios de forma incremental.
     
